@@ -1,6 +1,4 @@
-+-----------------------------------------+
-|  MKMR: Multi-kernel machine regression  |
-+-----------------------------------------+
+MKMR: Multi-kernel machine regression
 
 ----Description
 
