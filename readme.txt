@@ -8,7 +8,7 @@ MKMR is adapted from the "follow-path" package at https://www.di.ens.fr/~fbach/p
 Please vivst https://www.di.ens.fr/~fbach/path/ for more details about the package.
 
 In MKMR, we first calculate Unifrac distances and Bray-Curtis distance using R,
- then use the "follow-path" package in matlab to learn model and make predictions.
+ then use the "follow-path" package in Matlab to learn model and make predictions.
 
 In the package, "follow_entire_path.m" is the main function to run the regularization path algorithm,
 and others are supporting functions.
